@@ -1,6 +1,6 @@
 {
   "name": "k6-new-example",
-  "image": "mcr.microsoft.com/devcontainers/base:1-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/base:0-alpine",
   "features": {
     "ghcr.io/grafana/devcontainer-features/k6:1": {}
   }
